@@ -1,0 +1,7 @@
+{
+  "name": "SoSo Easy Demo",
+  "description": "The Sleep Money Machine - An AI dispatch assistant that works while you sleep.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
